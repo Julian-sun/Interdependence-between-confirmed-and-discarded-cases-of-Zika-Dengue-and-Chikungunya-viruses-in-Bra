@@ -6,9 +6,11 @@
 * [Setup](#setup)
 
 ## General info
-This is a interdiciplinar work aimed to apply mathematical/statistical tool to better understand the dissimination of Dengue, Chikungunya and Zika virus in Brazil. Specificaly, we construct a Vector Autoregressive (VAR) model to uncover possible correlation and 
-causality effects between the discarded and confirmed cases of dengue, chikungunya, and Zika in Brazil.
-	
+In this directory we present the code to construct a Vector Autoregressive (VAR) model to uncover possible correlation and  causality effects between the series of discarded and confirmed cases of dengue, chikungunya, and Zika in Brazil.
+
+The code originated from the project described in the preprint "Interdependence between confirmed and discarded cases of
+dengue, chikungunya and Zika viruses in Brazil: A multivariate time-series analysis, doi: https://doi.org/10.1101/708743". This was an interdisciplinary work aimed to apply mathematical/statistical tool to better understand the dissemination of Dengue, Chikungunya and Zika virus in Brazil. 
+
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
